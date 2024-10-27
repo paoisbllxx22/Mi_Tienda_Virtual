@@ -1,24 +1,36 @@
-
+<?php
+session_start();
+$error = '';
+if (isset($_SESSION['error'])) {
+    $error = $_SESSION['error'];
+    unset($_SESSION['error']);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>BestBuy - Login</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-<h1>Bienvenido a BestBuy!</h1>
-    <form method = "POST" action =  "mipanel.php">
-        <fieldset>
-            Usuario:<br>
-            <input type = "text" name = "nombre" ><br>
-            Clave:<br>
-            <input type = "password" name = "clave">
-            <br>
-            <br>
-            <input type = "submit" value = "Enviar">        
-        </fieldset>
-    </form>
+    <div class="container">
+        <h1>Bienvenido a BestBuy!</h1>
+        <?php if ($error): ?>
+            <p style="color: red;"><?php echo $error; ?></p>
+        <?php endif; ?>
+        <form method="POST" action="mipanel.php">
+            <fieldset>
+                <label for="nombre">Usuario:</label><br>
+                <input type="text" id="nombre" name="nombre" value="<?php echo isset($_COOKIE['nombre']) ? $_COOKIE['nombre'] : ''; ?>"><br>
+                <label for="clave">Clave:</label><br>
+                <input type="password" id="clave" name="clave" value="<?php echo isset($_COOKIE['clave']) ? $_COOKIE['clave'] : ''; ?>">
+                <br>
+                <input type="checkbox" name="recordarme" <?php echo isset($_COOKIE['nombre']) ? 'checked' : ''; ?>> Recordarme
+                <br><br>
+                <input type="submit" value="Enviar">
+            </fieldset>
+        </form>
+    </div>
 </body>
 </html>
