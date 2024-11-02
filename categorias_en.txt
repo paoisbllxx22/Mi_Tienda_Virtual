@@ -1,14 +1,14 @@
-Pants,
-Shirts
-Tshirts,
-Tracksuits,
-Tights,
-Poles,
-Sweatshirts,
-Jackets,
-Fleece linings,
-Vests,
-Coats,
-Sweaters,
-Ties,
-Shoes
+Pants| Pants size 32 through 36, available in yellow and green.
+Shirts| Shirts size S-XL, available in many colors.
+T-shirts| T-shirts in size S-L, available in short and long sleeve.
+Tracksuits| Comfy tracksuits in many sizes and in greys, whites, and electric blues.
+Leggings| Comfy leggings available in a wide variety of sizes and colors, ideal for workouts or casual wear.
+Polos| Polo shirts in sizes S-XL, available in many classic colors, ideal for casual and semi-formal occasions.
+Sweatshirts| Cozy sweatshirts in many sizes and colors, perfect for staying warm.
+Jackets| Stylish and in many sizes, offered in versatile colors like red, green, and blue.
+Fleece Jackets| Soft and very warm fleece jackets in a wide range of sizes.
+Vests| Useful vests in many sizes and colors, both neutral and vibrant, perfect for layering.
+Coats| Elegant coats available in a variety of sizes and classic colors, perfect for formal or casual winter wear.
+Sweaters| Comfy sweaters in sizes S-XL, available in a variety of styles.
+Ties| Classic ties available in a wide range of patterns and colors, perfect for formal and business attire.
+Shoes| Sturdy and stylish shoes in a range of sizes, with designs perfect for casual and formal wear.

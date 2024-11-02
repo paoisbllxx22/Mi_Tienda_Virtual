@@ -1,14 +1,14 @@
-Pantalones,
-Camisas,
-Camisetas,
-Chandals,
-Mallas,
-Polos,
-Sudaderas,
-Chaquetas,
-Forros polares,
-Chalecos,
-Abrigos,
-Jerseys,
-Corbatas,
-Zapatos
+Pantalones|Pantalones de talla 32-36, disponibles en colores amarillo y verde
+Camisas|Camisas de talla S-XL, disponibles en varios colores
+Camisetas|Camiseta de talla S-L, disponible en mangalarga y corta
+Chandals|Comodos combos en varias tallas en colores grises, blancos y azul electrico
+Mallas|Mallas cómodos disponibles en una amplia variedad de tallas y colores, ideales para hacer ejercicio o para usar de manera informal.
+Polos|Polos talla S-XL, disponibles en muchos colores clásicos, ideales para ocasiones casuales y semiformales.
+Sudaderas|Sudaderas cómodas en muchos tamaños y colores, perfectas para mantenerse abrigado.
+Chaquetas|Elegantes y en muchos tamaños, disponibles en colores versátiles como rojo, verde y azul.
+Forros polares|Chaquetas de polar suaves y muy cálidas en una amplia gama de tallas
+Chalecos|Chalecos útiles en muchos tamaños y colores, tanto neutros como vibrantes, perfectos para usar en capas.
+Abrigos|Abrigos elegantes disponibles en una variedad de tallas y en colores clásicos, perfectos para usar en invierno de manera formal o informal.
+Jerseys|Suéter cómodo en tallas S a XL, disponible en una variedad de estilos.
+Corbatas|Corbatas clásicas disponibles en una amplia gama de patrones y colores, perfectas para atuendos formales y de negocios.
+Zapatos|Zapatos resistentes y elegantes en una variedad de tallas, con diseños perfectos para usar en forma informal y formal.
