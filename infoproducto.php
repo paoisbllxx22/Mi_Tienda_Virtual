@@ -7,7 +7,7 @@ if (!isset($_SESSION['nombre'])) { // Cambia 'usuario' por la clave de tu sesió
     exit();
 }
 
-$idioma = 'es'; // Cambia según el idioma deseado
+$idioma = $_GET['idioma']; // Cambia según el idioma deseado
 $fichero = new Fichero($idioma);
 
 $producto = isset($_GET['producto']) ? $_GET['producto'] : null;
@@ -19,17 +19,17 @@ $detalle = $producto ? $fichero->getDetalle($producto) : 'Producto no especifica
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>Información del Producto</title>
+    <title><?php echo $idioma == 'en' ? 'Product Information' : 'Informacion de Producto'; ?></title>
 </head>
 <body>
-    <h1>Detalles del Producto</h1>
+    <h1><?php echo $idioma == 'en' ? 'Product Details' : 'Detalle de Producto'; ?></h1>
     <?php if ($producto): ?>
         <h2><?php echo htmlspecialchars($producto); ?></h2>
         <p><?php echo htmlspecialchars($detalle); ?></p>
     <?php else: ?>
-        <p>Producto no encontrado.</p>
+        <p><?php echo $idioma == 'en' ? 'Product not found' : 'Producto no encontrado'; ?></p>
     <?php endif; ?>
 
-    <a href="mipanel.php">Volver a la lista de productos</a>
+    <a href="mipanel.php"> <?php echo $idioma == 'en' ? 'Back to product listing' : 'Volver a la lista de productos'; ?></a>
 </body>
 </html>

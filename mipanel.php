@@ -65,7 +65,7 @@ $contenido = $ficheroInstancia->getContenido();
         <ul>
             <?php
             foreach ($contenido as $item) {
-                echo "<li><a href='infoproducto.php?producto=" . urlencode($item) . "'>" . htmlspecialchars($item) . "</a></li>";
+                echo "<li><a href='infoproducto.php?producto=" . urlencode($item) . "&idioma=" . urlencode($idioma) . "'>" . htmlspecialchars($item) . "</a></li>";
             }
             ?>
         </ul>

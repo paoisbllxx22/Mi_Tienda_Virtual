@@ -10,6 +10,7 @@ if (!isset($_COOKIE['nombre']) && !isset($_COOKIE['clave'])) {
     // No hay cookies, asegurarse de que ninguna cookie quede establecida
     setcookie("nombre", "", time() - 3600, "/");
     setcookie("clave", "", time() - 3600, "/");
+    setcookie("idioma", "", time() - 3600, "/");
 }
 
 // Redirigir al login
