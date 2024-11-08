@@ -1,14 +1,14 @@
-Pantalones|Pantalones de talla 32-36, disponibles en colores amarillo y verde
-Camisas|Camisas de talla S-XL, disponibles en varios colores
-Camisetas|Camiseta de talla S-L, disponible en mangalarga y corta
-Chandals|Comodos combos en varias tallas en colores grises, blancos y azul electrico
-Mallas|Mallas cómodos disponibles en una amplia variedad de tallas y colores, ideales para hacer ejercicio o para usar de manera informal.
-Polos|Polos talla S-XL, disponibles en muchos colores clásicos, ideales para ocasiones casuales y semiformales.
-Sudaderas|Sudaderas cómodas en muchos tamaños y colores, perfectas para mantenerse abrigado.
-Chaquetas|Elegantes y en muchos tamaños, disponibles en colores versátiles como rojo, verde y azul.
-Forros polares|Chaquetas de polar suaves y muy cálidas en una amplia gama de tallas
-Chalecos|Chalecos útiles en muchos tamaños y colores, tanto neutros como vibrantes, perfectos para usar en capas.
-Abrigos|Abrigos elegantes disponibles en una variedad de tallas y en colores clásicos, perfectos para usar en invierno de manera formal o informal.
-Jerseys|Suéter cómodo en tallas S a XL, disponible en una variedad de estilos.
-Corbatas|Corbatas clásicas disponibles en una amplia gama de patrones y colores, perfectas para atuendos formales y de negocios.
-Zapatos|Zapatos resistentes y elegantes en una variedad de tallas, con diseños perfectos para usar en forma informal y formal.
+Pantalones|Pantalones de talla 32-36, disponibles en colores amarillo y verde|https://www.pasa.ec/5029-large_default/pantalon-escolar.jpg
+Camisas|Camisas de talla S-XL, disponibles en varios colores|https://i.pinimg.com/736x/30/16/d7/3016d773ca8fb22a188c5b50ef36af2e.jpg
+Camisetas|Camiseta de talla S-L, disponible en mangalarga y corta|https://i.pinimg.com/474x/79/fd/f8/79fdf8af14645dfdfdf57c38a1c552c8.jpg
+Chandals|Comodos combos en varias tallas en colores grises, blancos y azul electrico|https://i.pinimg.com/564x/49/1c/82/491c820d62d3c1b392e5081a3504926f.jpg
+Mallas|Mallas cómodos disponibles en una amplia variedad de tallas y colores, ideales para hacer ejercicio o para usar de manera informal.|
+Polos|Polos talla S-XL, disponibles en muchos colores clásicos, ideales para ocasiones casuales y semiformales.|https://i.pinimg.com/736x/ba/a3/7d/baa37d69e481700585e0f8f69ad7cb62.jpg
+Sudaderas|Sudaderas cómodas en muchos tamaños y colores, perfectas para mantenerse abrigado.|https://i.pinimg.com/474x/70/98/e7/7098e7e66cb6b2a43de8522c24848dbb.jpg
+Chaquetas|Elegantes y en muchos tamaños, disponibles en colores versátiles como rojo, verde y azul.|https://i.pinimg.com/originals/df/5d/94/df5d94558e9d8000643879a4b065625e.jpg
+Forros polares|Chaquetas de polar suaves y muy cálidas en una amplia gama de tallas|
+Chalecos|Chalecos útiles en muchos tamaños y colores, tanto neutros como vibrantes, perfectos para usar en capas.|https://i.pinimg.com/736x/e5/66/37/e5663795b32724dd67f923195719e0a9.jpg
+Abrigos|Abrigos elegantes disponibles en una variedad de tallas y en colores clásicos, perfectos para usar en invierno de manera formal o informal.|https://i.pinimg.com/236x/86/53/a2/8653a2b2ca01a36d9ea7221b828bc136.jpg
+Jerseys|Suéter cómodo en tallas S a XL, disponible en una variedad de estilos.|
+Corbatas|Corbatas clásicas disponibles en una amplia gama de patrones y colores, perfectas para atuendos formales y de negocios.|https://www.camiseriainglesa.com.ec/wp-content/uploads/2024/10/MDS_0031_1.jpg
+Zapatos|Zapatos resistentes y elegantes en una variedad de tallas, con diseños perfectos para usar en forma informal y formal.|https://www.venus.com.ec/pub/media/catalog/product/cache/f246a469ca072380ed3af8f211e66c99/a/p/apolo_zapatos_deportivos_para_uso_escolar_colegial_y_de_trabajo_color_azul_blanco3.jpg

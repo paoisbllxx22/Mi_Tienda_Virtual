@@ -3,23 +3,43 @@
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
 
+.info {
+    font-size: 25px;
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
 /* Encabezados */
-h1, h3 {
+h1 {
     color: #333;
+    text-align: center;
+}
+
+h3 {
+    color: #666;
+    text-align: center;
 }
 
 /* Contenedor principal */
 .container {
-    width: 80%;
-    margin: 0 auto;
+    max-width: 800px;
+    margin: 50px auto;
     padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
-
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
 /* Formularios */
 form {
     background-color: #fff;
@@ -50,14 +70,18 @@ input[type="submit"] {
     cursor: pointer;
 }
 
+#producto {
+    font-size: 32px;
+}
 input[type="submit"]:hover {
     background-color: #0056b3;
 }
 
 /* Enlaces */
 a {
-    color: #007bff;
+    color: #004450;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {
@@ -71,8 +95,63 @@ ul {
 }
 
 li {
-    background-color: #fff;
-    padding: 15px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+ul li a {
+    display: block;
+    color: #333;
+}
+ul li a:hover {
+    background-color: #006d04;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.contenedor {
+    display: flex;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 100vw;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}
+
+.imagen {
+    flex: 0 0 40%;
+    margin-right: 20px;
+    padding-left: 50px;
+}
+
+.texto {
+    flex: 1;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 250px;
+    box-sizing: border-box; /* Incluye el padding y el borde en el ancho total */
+}
+
+header {
+    background-color: #006d04; /* Color verde */
+    padding: 15px 20px;
+    text-align: center;
+    border-bottom: 2px solid #388E3C; /* Un borde más oscuro para darle un efecto */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */
+}
+
+header a {
+    color: #ffffff; /* Color del texto blanco */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+header a:hover {
+    text-decoration: underline;
 }
